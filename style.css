@@ -1,0 +1,68 @@
+.buttons #ac{
+    background-color: gray;
+    color: black;
+}
+
+.buttons #more{
+    background-color: gray;
+    color: black;
+    
+}
+
+.buttons #perc{
+    background-color: gray;
+    color: black;
+}
+
+.buttons #div{
+    font-size: larger;
+    background-color: orange;
+}
+
+.buttons #mul{
+    font-size: 23px;
+    background-color: orange;
+}
+
+.buttons #min{
+    font-size: 23px;
+    background-color: orange;
+}
+
+.buttons #plus{
+    font-size: 23px;
+    background-color: orange;
+}
+
+.buttons #zero{
+    width: 132px;
+    border-radius: 30px;
+}
+
+button{
+    border-radius: 50% ;
+    height: 60px;
+    width: 60px;
+    border: none;
+    font-size: 15px;
+    background-color: #454546;
+    color: white;
+    margin: 4px;
+}
+
+#display{
+    height: 90px;
+    width: 262px;
+    border: none;
+    color: rgb(248, 248, 248);
+    background-color: black;
+    border-radius: 20px;
+    font-size: 27px;
+    text-align: right;
+}
+
+#back{
+    width: 285px;
+    background-color: black;
+    border-radius: 20px;
+}
